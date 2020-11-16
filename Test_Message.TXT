@@ -1,0 +1,11 @@
+GitHub - Local 연동 Test 메시지
+
+
+[pull]
+pull : git pull origin master
+
+[push]
+git status
+git add .
+git commit -m "message"
+push : git push origin +master
